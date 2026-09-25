@@ -63,5 +63,8 @@ Approves GCCP-6 and implements the performance-based remuneration model beginnin
 
 Rejects GCCP-6 and leaves the existing remuneration structure unchanged.
 
+**Abstain — Choose not to vote on the proposal**
+
+
 **Sponsor:** Rich
 **Contributors:** Filo
